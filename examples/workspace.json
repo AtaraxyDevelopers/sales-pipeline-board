@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "project": "sales-pipeline-board",
+  "settings": {
+    "currency": "USD",
+    "staleDays": 7
+  },
+  "records": [
+    {
+      "id": "deal-1",
+      "name": "Maple Studio",
+      "owner": "Amina",
+      "amount": 5000,
+      "stage": "proposal",
+      "probability": 60,
+      "updated": "2026-11-01",
+      "nextDate": "2026-11-14",
+      "nextAction": "Review scope together"
+    },
+    {
+      "id": "deal-2",
+      "name": "River Foods",
+      "owner": "Bilal",
+      "amount": 2000,
+      "stage": "won",
+      "probability": 100,
+      "updated": "2026-11-14",
+      "nextDate": "2026-11-20",
+      "nextAction": "Handoff to delivery"
+    }
+  ]
+}
