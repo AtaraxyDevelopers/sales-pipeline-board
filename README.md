@@ -1,3 +1,5 @@
+<p><a href="https://ataraxydevelopers.com"><img src="public/ataraxy-developers-logo.png" alt="Ataraxy Developers — Turning Digital Visions Into Reality" width="520"></a></p>
+
 # Sales Pipeline Board
 
 [![CI](https://github.com/AtaraxyDevelopers/sales-pipeline-board/actions/workflows/ci.yml/badge.svg)](https://github.com/AtaraxyDevelopers/sales-pipeline-board/actions/workflows/ci.yml)

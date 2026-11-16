@@ -1,6 +1,6 @@
 {
   "name": "@ataraxydevelopers/sales-pipeline-board",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": true,
   "type": "module",
   "description": "Track deal stages, next actions, and stalled opportunities in one workspace.",
